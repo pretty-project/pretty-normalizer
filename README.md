@@ -1,25 +1,25 @@
 
-# clj-css-normalizer
+# pretty-normalizer
 
 ### Overview
 
-The <strong>clj-css-normalizer</strong> is a simple browser default style normalizer
+The <strong>pretty-normalizer</strong> is a simple browser default style normalizer
 CSS stylesheet for Clojure projects.
 
 ### deps.edn
 
 ```
-{:deps {bithandshake/clj-css-normalizer {:git/url "https://github.com/bithandshake/clj-css-normalizer"
-                                         :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}
+{:deps {bithandshake/pretty-normalizer {:git/url "https://github.com/bithandshake/pretty-normalizer"
+                                        :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}
 ```
 
 ### Current version
 
-Check out the latest commit on the [release branch](https://github.com/bithandshake/clj-css-normalizer/tree/release).
+Check out the latest commit on the [release branch](https://github.com/bithandshake/pretty-normalizer/tree/release).
 
 ### Changelog
 
-You can track the changes of the <strong>clj-css-normalizer</strong> library [here](CHANGES.md).
+You can track the changes of the <strong>pretty-normalizer</strong> library [here](CHANGES.md).
 
 # Usage
 
@@ -29,7 +29,7 @@ You can track the changes of the <strong>clj-css-normalizer</strong> library [he
 
 ### How to implement the CSS normalizer?
 
-Place the `normalizer.min.css` file in your HTML header, you can find it in the
+Place the `pretty-normalizer.min.css` file in your HTML header, you can find it in the
 `resources/public` folder of this repository:
 
-`resources/public/normalizer.min.css`
+`resources/public/pretty-normalizer.min.css`
