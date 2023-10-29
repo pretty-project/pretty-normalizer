@@ -3,8 +3,8 @@
 
 ### Overview
 
-The <strong>clj-css-normalizer</strong> is a simple browser default style normalizer CSS stylesheet
-for Clojure projects.
+The <strong>clj-css-normalizer</strong> is a simple browser default style normalizer
+CSS stylesheet for Clojure projects.
 
 ### deps.edn
 
