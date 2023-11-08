@@ -9,13 +9,13 @@ CSS stylesheet for Clojure projects.
 ### deps.edn
 
 ```
-{:deps {bithandshake/pretty-normalizer {:git/url "https://github.com/bithandshake/pretty-normalizer"
-                                        :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}
+{:deps {monotech-tools/pretty-normalizer {:git/url "https://github.com/monotech-tools/pretty-normalizer"
+                                          :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}
 ```
 
 ### Current version
 
-Check out the latest commit on the [release branch](https://github.com/bithandshake/pretty-normalizer/tree/release).
+Check out the latest commit on the [release branch](https://github.com/monotech-tools/pretty-normalizer/tree/release).
 
 ### Changelog
 
