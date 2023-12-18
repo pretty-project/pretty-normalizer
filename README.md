@@ -10,7 +10,7 @@ CSS stylesheet for Clojure projects.
 
 ```
 {:deps {monotech-tools/pretty-normalizer {:git/url "https://github.com/monotech-tools/pretty-normalizer"
-                                          :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}
+                                          :sha     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}}}
 ```
 
 ### Current version
